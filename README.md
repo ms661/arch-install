@@ -46,4 +46,4 @@
 2. `grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB`
 3. `grub-mkconfig -o /boot/grub/grub.cfg`
 
-then exit tand shutdown
+then exit and shutdown
